@@ -15,4 +15,4 @@ This repository is a set of my practical activities (awesome code) during my cla
 
 ## Spark
 
-9.  Three Spark tasks (WordCount, sells total by city and sells total by date_city). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/Tps_MapReduce_essadeq_ELAAMIRI.pdf)
+9.  Three Spark tasks (WordCount, sells total by city and sells total by date_city). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/TP7_enonce.pdf)
