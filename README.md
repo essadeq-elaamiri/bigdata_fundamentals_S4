@@ -12,7 +12,12 @@ This repository is a set of my practical activities (awesome code) during my cla
 6. MapReduce Job to find the number of employees by department. [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/minMaxSalaire/src/main/java/nombreEmployes), [Report](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/Tps_MapReduce_essadeq_ELAAMIRI.pdf)
 7. MapReduce Job to find min/max temperature by month (1916). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/minMaxTemperature/src/main/java), [Report](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/Tps_MapReduce_essadeq_ELAAMIRI.pdf)
 8. MapReduce Job to find min/max temperature by year (1908-1916, multiple input files). [Not Ready]
+9. K-means implementation with Java. [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/TP7_enonce.pdf)
+
+10. K-means implementation using MapReduce (Points clasturing). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/TP7_enonce.pdf)
+
+11. K-means implementation using MapReduce (Image Processing). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/TP7_enonce.pdf)
 
 ## Spark
 
-9.  Three Spark tasks (WordCount, sells total by city and sells total by date_city). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/TP7_enonce.pdf)
+12. Three Spark tasks (WordCount, sells total by city and sells total by date_city). [Source Code](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/tree/main/tp1spark), [TP](https://github.com/essadeq-elaamiri/bigdata_fundamentals_S4/blob/main/comptesRendus/TP7_enonce.pdf)
