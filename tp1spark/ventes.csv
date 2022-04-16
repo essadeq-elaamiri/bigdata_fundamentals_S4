@@ -1,0 +1,501 @@
+date ,ville,produit,prix
+2020-02-03,Ad Dakhla,Hipnotiq Liquor,11764.875
+2021-12-10,Ben Guerir,Apple - Delicious_ Red,2107.099
+2019-07-10,Essaouira,Lettuce - Radicchio,14815.455
+2019-10-03,Essaouira,Muffin Hinge 117n,19308.777
+2020-09-27,Ad Dakhla,Cheese - Mozzarella,5085.497
+2022-03-13,Temara,Beans - Green,18978.247
+2021-07-30,Temara,Onions - Vidalia,8680.141
+2020-01-24,Tineghir,Tart Shells - Sweet_ 2,1410.18
+2021-09-03,Oujda,Container - Foam Dixie 12 Oz,19297.327
+2019-11-26,Agadir,Nori Sea Weed,12484.74
+2020-05-25,Boujad,Blue Curacao - Marie Brizard,19821.287
+2021-03-06,Ad Dakhla,Lobster - Tail 6 Oz,15528.193
+2021-10-21,Al Fqih Ben,Beef Dry Aged Tenderloin Aaa,4940.274
+2020-03-19,Guelmim,Puree - Kiwi,2579.999
+2019-08-15,Marrakech,Extract - Rum,4959.949
+2019-06-02,Tineghir,Longos - Chicken Caeser Salad,7271.953
+2019-05-08,Sefrou,French Pastries,5995.214
+2020-05-13,Sefrou,Jello - Assorted,11054.506
+2022-02-25,Essaouira,Rappini - Andy Boy,611.022
+2020-09-15,Tangier,Veal - Shank_ Pieces,3760.446
+2020-10-24,Kenitra,Wine - Riesling Dr. Pauly,14013.807
+2019-10-12,Ksar El Kebir,Potatoes - Mini White 3 Oz,6591.344
+2021-04-03,Taourirt,Pie Shell - 9,2741.028
+2021-07-04,Taourirt,The Pop Shoppe - Black Cherry,2877.899
+2022-03-22,El AÃ¯oun,Quail - Jumbo,648.37
+2020-05-11,Guelmim,Cheese - Asiago,1594.857
+2020-04-25,Kenitra,Table Cloth 62x114 White,17275.903
+2021-12-01,Errachidia,Smoked Paprika,6209.234
+2021-12-11,El Kelaa des Srarhna,Trout Rainbow Whole,245.786
+2019-11-01,Tineghir,Lamb - Loin Chops,19746.782
+2022-01-06,El Kelaa des Srarhna,Oil - Margarine,10478.561
+2021-10-28,El Kelaa des Srarhna,Island Oasis - Cappucino Mix,7262.05
+2022-03-27,FÃ¨s,Pork - Loin_ Boneless,15104.286
+2020-03-15,Safi,Beans - Butter Lrg Lima,14630.079
+2021-07-29,Tangier,Slt - Individual Portions,15558.133
+2020-11-26,Tangier,Latex Rubber Gloves Size 9,10154.142
+2020-07-28,Sidi Slimane,Latex Rubber Gloves Size 9,9881.28
+2021-02-22,Chefchaouene,Cabbage - Green,1479.834
+2019-06-04,Tangier,Curry Powder,9261.402
+2019-09-26,Rabat,Sauce - Oyster,3100.541
+2021-07-01,Sidi Slimane,Nut - Peanut_ Roasted,12981.712
+2022-03-18,Jerada,Dill Weed - Dry,18229.311
+2019-07-08,Kouribga,Prunes - Pitted,3110.584
+2020-12-31,Rabat,Pastry - Cherry Danish - Mini,1571.952
+2020-03-09,Sidi Slimane,Wine - Chablis J Moreau Et Fils,10136.953
+2021-06-03,El Kelaa des Srarhna,Sauce - Apple_ Unsweetened,3655.559
+2019-05-08,Taroudannt,Cheese - Shred Cheddar / Mozza,849.748
+2019-07-03,Mrirt,Cheese - Comte,19091.653
+2021-03-01,Tiflet,Chips - Miss Vickies,14399.527
+2021-09-04,Guercif Oulad,Beer - Blue,2795.729
+2019-05-06,Semara,Fuji Apples,7926.475
+2021-04-12,Azemmour,Anchovy Fillets,14467.446
+2021-08-06,Kenitra,Lid Tray - 12in Dome,4198.01
+2021-11-08,Tiflet,Wine - German Riesling,8641.205
+2019-11-06,Mrirt,Nestea - Ice Tea_ Diet,9676.307
+2020-10-09,Taroudannt,Cheese - Montery Jack,5856.936
+2020-06-01,Ben Guerir,Island Oasis - Sweet And Sour Mix,16666.528
+2020-11-08,Ksar El Kebir,Grenadillo,3910.695
+2021-12-15,El AÃ¯oun,Steamers White,2642.526
+2020-10-05,Larache,Wine - Pinot Noir Stoneleigh,1500.93
+2021-09-16,Chefchaouene,Spinach - Baby,7338.176
+2019-06-14,Chefchaouene,Bulgar,17291.391
+2020-12-26,Errachidia,Wine - Coteaux Du Tricastin Ac,2604.449
+2019-09-09,Inezgane,Basil - Fresh,3437.136
+2020-08-28,Boujad,Onions - Dried_ Chopped,16877.044
+2020-12-19,Ksar El Kebir,Cake - Cheese Cake 9 Inch,15661.121
+2021-02-25,Taroudannt,Tuna - Loin,13804.503
+2021-09-14,Ad Dakhla,Urban Zen Drinks,2264.273
+2020-05-27,Boujad,Pasta - Orecchiette,8326.547
+2022-01-23,Larache,Beer - Paulaner Hefeweisse,4186.903
+2021-03-14,Rabat,Soup - Knorr_ Veg / Beef,12071.976
+2019-11-13,Mohammedia,Wine - White_ Antinore Orvieto,10344.987
+2020-02-04,Errachidia,Garam Marsala,19862.625
+2021-08-06,Errachidia,Syrup - Monin_ Swiss Choclate,6512.873
+2019-07-15,Kenitra,Wine - Harrow Estates_ Vidal,13438.773
+2021-03-25,Oued Zem,Wiberg Super Cure,14789.27
+2021-03-09,Sefrou,Veal - Ground,1024.92
+2021-11-24,Guelmim,Coconut - Whole,13447.945
+2021-02-11,Taourirt,Truffle Paste,17281.206
+2020-12-27,Oujda,Hold Up Tool Storage Rack,8117.251
+2022-01-01,Temara,Cocktail Napkin Blue,8675.997
+2020-03-18,Oued Zem,Tomatoes - Hot House,7529.407
+2019-10-08,Rabat,The Pop Shoppe - Cream Soda,2538.366
+2021-11-03,Ben Guerir,Kumquat,3695.496
+2021-09-23,El Kelaa des Srarhna,Passion Fruit,15606.14
+2020-01-02,Tiflet,Tart Shells - Savory_ 3,19994.644
+2022-02-15,Taourirt,Bread Base - Gold Formel,12536.001
+2019-12-05,Taroudannt,Gatorade - Cool Blue Raspberry,13966.205
+2021-04-12,FÃ¨s,Mousse - Passion Fruit,4517.002
+2019-11-05,Rabat,Cup - 6oz_ Foam,1596.229
+2022-03-01,El Kelaa des Srarhna,Cake - Sheet Strawberry,9750.108
+2021-10-28,Taroudannt,Banana - Leaves,970.727
+2019-04-19,Errachidia,Oil - Food_ Lacquer Spray,14151.524
+2021-08-15,Safi,Lobster - Cooked,19646.769
+2021-10-08,Oued Zem,Wine - Alsace Riesling Reserve,727.945
+2022-01-06,Kouribga,Cheese - La Sauvagine,7764.167
+2020-09-19,Ksar El Kebir,Curry Paste - Green Masala,19444.337
+2019-08-21,Oujda,Potatoes - Parissienne,435.377
+2020-08-13,Temara,Halibut - Fletches,9961.308
+2021-08-18,Guelmim,Cheese - Camembert,4534.674
+2021-08-24,Jerada,Blouse / Shirt / Sweater,2084.121
+2020-11-13,El Kelaa des Srarhna,Syrup - Monin_ Amaretta,1591.632
+2019-04-17,Azemmour,Appetizer - Chicken Satay,13258.979
+2019-09-17,Azemmour,Syrup - Monin_ Amaretta,17816.514
+2021-12-26,Mrirt,Rice - Basmati,16192.406
+2021-01-27,Boujad,Irish Cream - Butterscotch,6896.034
+2021-07-24,Sefrou,Basil - Seedlings Cookstown,19853.263
+2020-07-18,Errachidia,Sugar - Cubes,10628.205
+2021-01-16,Errachidia,Hog / Sausage Casing - Pork,5520.024
+2020-10-23,Inezgane,Shrimp - Black Tiger 26/30,1144.041
+2019-11-14,Rabat,Vodka - Moskovskaya,827.317
+2020-02-16,Sidi Slimane,Sunflower Seed Raw,19687.728
+2019-08-05,El AÃ¯oun,Bagel - Ched Chs Presliced,15142.123
+2021-07-27,Mohammedia,Chicken - Thigh_ Bone In,8367.603
+2019-08-06,Tangier,Vermouth - Sweet_ Cinzano,10864.875
+2020-12-30,Kenitra,Wine - Soave Folonari,11217.986
+2020-04-12,Ben Guerir,Green Tea Refresher,4958.335
+2020-02-02,Sefrou,Sprouts - Corn,8169.496
+2020-03-21,Tineghir,Juice - Lime,3695.769
+2020-09-11,Azemmour,Bowl 12 Oz - Showcase 92012,12119.336
+2021-12-26,Semara,Aspic - Amber,10637.608
+2020-03-11,Agadir,Tomatoes - Cherry_ Yellow,6676.136
+2020-01-29,Oued Zem,Pork - Loin_ Bone - In,10797.269
+2021-10-01,Essaouira,Pasta - Fusili Tri - Coloured,788.344
+2021-08-11,Azemmour,Loquat,17435.197
+2022-01-01,Guelmim,Sachet,1162.531
+2019-09-02,Ad Dakhla,Bacon Strip Precooked,2578.067
+2021-05-15,Temara,Brownies - Two Bite_ Chocolate,7273.835
+2019-05-18,El Kelaa des Srarhna,Wine - Red_ Pinot Noir_ Chateau,4719.387
+2020-03-05,FÃ¨s,Lid - 10_12_16 Oz,350.291
+2021-04-23,Boujad,Sauce - Bernaise_ Mix,6281.881
+2022-04-05,Errachidia,Table Cloth 120 Round White,16798.488
+2021-12-07,Boujad,Blackberries,19889.475
+2020-01-23,Taourirt,Cake - Bande Of Fruit,6812.164
+2021-03-16,Rabat,Goat - Whole Cut,14808.093
+2020-10-14,Tangier,Potatoes - Pei 10 Oz,9879.876
+2021-04-08,FÃ¨s,Towel Dispenser,7003.659
+2021-10-06,FÃ¨s,Salt - Table,11755.26
+2019-09-22,Oujda,Steamers White,368.172
+2020-04-16,Taourirt,Grenadillo,9299.892
+2019-12-05,Sidi Slimane,Mushroom - Porcini_ Dry,16938.769
+2020-11-08,Ben Guerir,Veal - Brisket_ Provimi_ Bone - In,1493.376
+2020-09-21,Jerada,Oregano - Fresh,19069.129
+2020-01-16,Agadir,Beef - Tenderloin Tails,17187.246
+2020-05-11,Agadir,Pepper - Gypsy Pepper,1984.364
+2021-10-24,Oujda,Yogurt - Raspberry_ 175 Gr,11411.396
+2021-02-09,Sale,Soup - Campbells Beef Stew,1162.079
+2021-11-03,Tineghir,Jameson - Irish Whiskey,12211.386
+2021-07-05,Kouribga,Spice - Pepper Portions,1104.314
+2020-08-14,Rabat,Pate - Cognac,7352.443
+2022-02-01,Kouribga,Wine - Chardonnay South,7791.541
+2021-09-06,Boujad,Pastry - Baked Scones - Mini,9589.418
+2019-05-14,Oujda,Shrimp - Baby_ Cold Water,3766.531
+2020-08-04,FÃ¨s,Piping Jelly - All Colours,18288.717
+2019-06-30,Ad Dakhla,Crab Brie In Phyllo,3235.397
+2021-08-09,Agadir,Ice - Clear_ 300 Lb For Carving,14689.559
+2020-10-26,FÃ¨s,Brandy Cherry - Mcguinness,3139.103
+2020-10-08,Sidi Slimane,Carbonated Water - White Grape,19616.016
+2020-02-19,Sefrou,Veal - Inside_ Choice,9553.135
+2019-10-15,Tiflet,Fish - Atlantic Salmon_ Cold,3202.494
+2022-02-05,Jerada,Rice - Wild,16679.238
+2020-05-13,Mohammedia,Cornstarch,17165.283
+2022-03-07,Semara,Wine - Magnotta - Cab Franc,12196.435
+2020-04-21,Ksar El Kebir,Dried Cranberries,9778.904
+2022-04-06,FÃ¨s,Coffee - Dark Roast,5537.202
+2020-10-11,Oujda,Truffle Shells - White Chocolate,7600.267
+2020-12-15,Mrirt,Wine - Trimbach Pinot Blanc,757.225
+2020-01-14,Chefchaouene,Extract - Rum,9590.127
+2019-08-05,Boujad,Salmon Atl.whole 8 - 10 Lb,4175.627
+2021-08-13,Al Fqih Ben,Brocolinni - Gaylan_ Chinese,2133.134
+2019-09-28,Oued Zem,Coke - Classic_ 355 Ml,4000.243
+2021-05-24,Tineghir,Butter Sweet,8184.592
+2020-05-08,Kouribga,Extract - Almond,324.868
+2022-02-05,Oued Zem,Bag - Regular Kraft 20 Lb,8920.294
+2020-12-30,Kenitra,Honey - Lavender,11289.152
+2021-02-14,Tineghir,Muffin Mix - Carrot,3098.453
+2021-07-24,Qasbat Tadla,Soup - Campbells Asian Noodle,10599.731
+2020-08-08,Oued Zem,Wine - Red Oakridge Merlot,19907.978
+2020-02-12,Chefchaouene,Tea - Orange Pekoe,6440.97
+2019-06-05,Tangier,Flavouring - Orange,15560.634
+2021-04-21,Casablanca,Beef - Short Ribs,9853.076
+2020-10-05,El AÃ¯oun,Wine - White_ Riesling_ Henry Of,11294.041
+2020-12-22,Taroudannt,Lamb - Loin Chops,19445.695
+2021-05-29,Tineghir,Appetizer - Crab And Brie,4924.77
+2020-08-02,Tineghir,Sauce - Fish 25 Ozf Bottle,3792.112
+2020-09-01,Chefchaouene,Lamb - Sausage Casings,16099.617
+2021-11-08,Tiflet,Mikes Hard Lemonade,784.966
+2021-03-02,Rabat,Pepper - Chillies_ Crushed,14180.228
+2020-08-19,El Kelaa des Srarhna,Oil - Margarine,19521.51
+2019-11-03,Tangier,Tea - Herbal Sweet Dreams,17961.788
+2021-09-21,Taourirt,Bagel - Whole White Sesame,14758.208
+2021-02-22,Ad Dakhla,Pasta - Elbows_ Macaroni_ Dry,7635.213
+2020-05-13,Oujda,Leeks - Large,15193.606
+2021-10-23,Oujda,Beef - Tenderloin Tails,11979.992
+2021-10-20,Casablanca,Wine - Chateauneuf Du Pape,12831.567
+2021-04-11,Agadir,Water - Mineral_ Natural,2793.491
+2021-12-03,Oujda,Table Cloth 53x53 White,10285.84
+2019-12-31,Essaouira,Juice - Apple_ 500 Ml,14872.559
+2022-03-05,Al Fqih Ben,Apple - Delicious_ Red,4361.116
+2020-12-27,Azemmour,Sobe - Berry Energy,18837.473
+2020-04-09,Agadir,Sugar - Brown,9908.48
+2019-09-02,Safi,Cake - Box Window 10x10x2.5,1153.015
+2021-11-20,Sale,Wood Chips - Regular,15876.248
+2019-06-05,Tangier,Pork - Ham_ Virginia,16021.891
+2020-03-22,Larache,Beef Striploin Aaa,19345.459
+2021-09-14,Chefchaouene,Anchovy Paste - 56 G Tube,15860.412
+2020-04-23,Sale,Pasta - Cappellini_ Dry,11097.807
+2020-03-14,Agadir,Nougat - Paste / Cream,2477.467
+2020-12-04,Qasbat Tadla,Ocean Spray - Ruby Red,847.235
+2021-03-30,Sefrou,Chocolate - Compound Coating,3086.856
+2020-06-10,Ad Dakhla,Wine - Red_ Gallo_ Merlot,14469.37
+2021-12-23,Azemmour,Appetizer - Escargot Puff,17276.383
+2022-02-23,Larache,Veal - Brisket_ Provimi_bnls,11306.516
+2020-05-16,Oued Zem,Basil - Thai,9673.173
+2021-08-23,Essaouira,Sprouts - Corn,2508.17
+2019-10-31,Guercif Oulad,Bag Clear 10 Lb,1070.916
+2022-02-27,El AÃ¯oun,Rice Pilaf_ Dry_package,6349.231
+2019-12-20,Tangier,Munchies Honey Sweet Trail Mix,15577.155
+2019-09-13,Errachidia,Crush - Grape_ 355 Ml,17094.43
+2020-07-11,FÃ¨s,Wine - Penfolds Koonuga Hill,18269.204
+2020-04-26,Sefrou,Anchovy Fillets,14815.942
+2021-04-04,Ksar El Kebir,Chicken - Ground,13984.225
+2021-12-05,Azemmour,Soup Knorr Chili With Beans,10381.399
+2021-12-05,Inezgane,Beans - Kidney_ Red Dry,2834.985
+2020-09-13,Chefchaouene,Tea - Jasmin Green,9272.67
+2020-11-19,El AÃ¯oun,Trout - Rainbow_ Fresh,10644.708
+2021-08-30,Boujad,Fish - Scallops_ Cold Smoked,14493.236
+2020-05-03,Tineghir,Coffee Decaf Colombian,13799.26
+2020-05-09,Taourirt,Nut - Peanut_ Roasted,9619.833
+2021-04-01,Tangier,Rice - Aborio,14078.074
+2020-10-03,Taourirt,Mushroom - Crimini,12764.497
+2021-10-30,Ben Guerir,Beer - Alexander Kieths_ Pale Ale,3330.09
+2020-07-28,Ad Dakhla,Wine - Casillero Deldiablo,17694.504
+2021-11-23,Essaouira,Beer - Paulaner Hefeweisse,8607.442
+2020-04-23,Safi,Icecream - Dibs,13642.036
+2021-01-10,Semara,Pork - Ham_ Virginia,11222.342
+2019-09-14,Guercif Oulad,Mangostein,16010.848
+2021-10-18,Al Fqih Ben,Dehydrated Kelp Kombo,3725.14
+2019-10-01,Mrirt,Lobster - Live,9756.003
+2019-04-25,Larache,Danishes - Mini Cheese,11161.336
+2022-04-07,Ksar El Kebir,Beer - Rickards Red,6598.391
+2021-09-26,Essaouira,Olives - Kalamata,13606.571
+2020-07-03,Taourirt,Beef - Rib Eye Aaa,19229.846
+2022-03-16,Marrakech,Cheese - Goat With Herbs,3404.846
+2021-04-01,Marrakech,Veal - Shank_ Pieces,12942.918
+2020-02-15,Tiflet,Crab - Back Fin Meat_ Canned,11517.575
+2021-02-17,FÃ¨s,Beef - Kindney_ Whole,10749.718
+2020-04-06,Mrirt,Tomatillo,19297.599
+2022-01-16,Qasbat Tadla,Salt - Kosher,17971.318
+2021-01-17,Azemmour,Beer - Sleeman Fine Porter,4759.873
+2022-01-08,El AÃ¯oun,Wine - Kwv Chenin Blanc South,11804.344
+2019-09-30,Qasbat Tadla,Muffin Mix - Oatmeal,985.121
+2019-11-20,El AÃ¯oun,Peas Snow,12294.158
+2019-12-16,Sidi Slimane,Wasabi Paste,6735.864
+2021-11-25,Agadir,Pie Box - Cello Window 2.5,11229.693
+2020-07-31,Mohammedia,Pate - Cognac,18348.245
+2020-06-09,Ben Guerir,Wine - Niagara_vqa Reisling,16469.141
+2021-09-28,Marrakech,Vol Au Vents,7796.508
+2019-06-19,Tangier,Tandoori Curry Paste,14757.232
+2020-05-03,Essaouira,Chinese Foods - Plain Fried Rice,18524.1
+2021-08-01,Tangier,Soup - Chicken And Wild Rice,4793.815
+2021-05-05,Safi,Sobe - Lizard Fuel,5380.63
+2019-06-28,Agadir,Wine - White_ Mosel Gold,9179.002
+2020-11-22,Rabat,Chicken - Breast_ 5 - 7 Oz,13198.427
+2019-04-21,Oued Zem,Cheese - Gouda,6471.23
+2020-10-24,Kenitra,Sprouts - Onion,18803.371
+2021-04-04,El AÃ¯oun,Coffee - Frthy Coffee Crisp,9457.911
+2021-07-22,Azemmour,Soup - Knorr_ Veg / Beef,16471.958
+2020-08-05,Ad Dakhla,Long Island Ice Tea,2338.324
+2020-08-02,Tangier,Nougat - Paste / Cream,16257.07
+2020-06-02,Sale,Table Cloth 90x90 White,15468.553
+2022-03-18,Rabat,Momiji Oroshi Chili Sauce,6586.186
+2021-06-12,Al Fqih Ben,Sea Bass - Whole,16094.078
+2020-08-28,El AÃ¯oun,Buffalo - Tenderloin,2739.285
+2021-04-08,Temara,Uniform Linen Charge,980.659
+2020-08-05,FÃ¨s,Fish - Halibut_ Cold Smoked,18239.218
+2019-06-01,El Kelaa des Srarhna,Crush - Grape_ 355 Ml,5845.014
+2019-06-12,Jerada,Celery,14415.912
+2019-04-17,Sefrou,Foil - 4oz Custard Cup,19009.296
+2020-03-15,Semara,Mudslide,5683.339
+2021-09-09,Qasbat Tadla,Lemonade - Strawberry_ 591 Ml,9276.228
+2019-10-23,Sefrou,Lettuce - Sea / Sea Asparagus,2511.69
+2021-06-12,FÃ¨s,Tart - Lemon,4204.22
+2021-03-31,Jerada,Cloves - Whole,17562.031
+2019-12-09,Casablanca,Soup - Campbells,9569.171
+2020-12-31,Azemmour,Chinese Foods - Chicken Wing,6045.453
+2020-05-31,Kouribga,Sprouts - Onion,8074.465
+2020-02-10,Boujad,Cheese - Victor Et Berthold,3023.097
+2021-07-01,El AÃ¯oun,Steampan - Lid For Half Size,2465.879
+2019-07-25,Essaouira,Pear - Packum,17899.133
+2020-03-13,Ksar El Kebir,Oil - Sunflower,15443.168
+2021-01-25,Guelmim,Oregano - Fresh,13112.029
+2021-05-28,Kouribga,Bread - Pullman_ Sliced,2590.359
+2021-10-10,Azemmour,Cranberries - Frozen,12321.616
+2019-06-14,FÃ¨s,Icecream - Dstk Cml And Fdg,1659.455
+2020-09-17,Rabat,Olive - Spread Tapenade,1124.283
+2020-05-08,Boujad,Oil - Coconut,15184.608
+2021-06-13,Taroudannt,Alize Sunset,7015.118
+2020-01-19,Guelmim,Loaf Pan - 2 Lb_ Foil,325.677
+2019-11-05,Ben Guerir,Beer - Fruli,9585.331
+2022-01-19,Sidi Slimane,Island Oasis - Raspberry,2414.658
+2022-01-19,Chefchaouene,Flour - Corn_ Fine,5746.688
+2021-10-01,Taourirt,Pork - Liver,17773.834
+2021-07-20,Tiflet,Beef - Rouladin_ Sliced,13016.656
+2021-02-17,Kouribga,Wine - Domaine Boyar Royal,288.955
+2020-07-13,Kenitra,Nori Sea Weed - Gold Label,4773.113
+2019-11-02,Azemmour,Tamarind Paste,15462.837
+2019-12-06,FÃ¨s,Wine - Rioja Campo Viejo,19074.287
+2021-09-17,Chefchaouene,Potato - Sweet,9174.323
+2022-02-03,Safi,Table Cloth 53x69 White,11973.571
+2021-12-13,Al Fqih Ben,Dried Peach,826.2
+2019-10-21,Tangier,Wine - Jackson Triggs Okonagan,2051.765
+2019-11-19,Oued Zem,Longos - Chicken Curried,1073.033
+2019-12-10,Ben Guerir,Sugar - Palm,3150.018
+2021-07-03,Ad Dakhla,Cod - Black Whole Fillet,81.882
+2019-12-01,Qasbat Tadla,Fenngreek Seed,5166.98
+2019-08-29,Guelmim,Wine - Cotes Du Rhone Parallele,957.802
+2020-10-07,Sale,Syrup - Monin - Granny Smith,14437.456
+2021-10-24,Sidi Slimane,Tea - Herbal I Love Lemon,15326.99
+2022-02-01,Taourirt,Hog / Sausage Casing - Pork,16308.563
+2020-12-26,Oujda,Oven Mitt - 13 Inch,8052.845
+2020-11-27,Sale,Temperature Recording Station,5565.905
+2021-06-15,Marrakech,Pepper - Green Thai,1089.335
+2022-04-06,Sale,Vol Au Vents,10051.167
+2021-12-09,Guelmim,Wine - Cabernet Sauvignon,3127.411
+2020-08-02,Guercif Oulad,Fish - Scallops_ Cold Smoked,3159.519
+2019-05-09,Agadir,Wine - Cotes Du Rhone Parallele,6169.211
+2020-06-28,El Kelaa des Srarhna,Muffin Batt - Carrot Spice,2467.917
+2019-05-22,Marrakech,Dill - Primerba_ Paste,6926.99
+2021-07-15,Semara,Chervil - Fresh,14986.271
+2022-02-03,Casablanca,Wine - Valpolicella Masi,13236.243
+2020-02-07,Jerada,Table Cloth 90x90 White,14261.585
+2021-05-01,Oujda,Laundry - Bag Cloth,7994.239
+2021-02-05,Marrakech,Table Cloth 90x90 White,2386.349
+2022-04-11,Ben Guerir,Flounder - Fresh,16157.923
+2019-06-22,Oujda,Lobster - Live,12758.78
+2021-12-07,Sale,Galliano,1853.2
+2021-05-15,El Kelaa des Srarhna,Juice - Orange_ 341 Ml,15448.049
+2021-12-12,FÃ¨s,Calypso - Lemonade,569.786
+2020-11-07,Casablanca,Soup - Campbells Beef Stew,13942.65
+2021-03-04,Inezgane,Lotus Root,12550.956
+2019-05-29,Oued Zem,Couscous,19901.753
+2022-02-12,Al Fqih Ben,Beans - Wax,15239.564
+2021-01-12,El Kelaa des Srarhna,Carrots - Mini_ Stem On,7187.754
+2022-04-14,FÃ¨s,Quail - Whole_ Boneless,7233.766
+2021-04-24,Temara,Wine - Chateauneuf Du Pape,19735.769
+2019-06-03,Tiflet,Ginsing - Fresh,16359.255
+2020-06-09,El Kelaa des Srarhna,Thyme - Dried,16449.917
+2020-05-13,Al Fqih Ben,Potatoes - Peeled,8187.063
+2022-01-23,Al Fqih Ben,Mackerel Whole Fresh,11257.644
+2021-11-21,Jerada,Versatainer Nc - 888,9627.801
+2020-11-28,Taourirt,Steel Wool,15514.126
+2022-02-22,Guercif Oulad,Oil - Macadamia,18863.377
+2021-01-31,Agadir,Oil - Grapeseed Oil,8296.788
+2021-06-02,Qasbat Tadla,Beef - Inside Round,18677.589
+2019-05-22,Guelmim,Stock - Fish,3193.917
+2019-10-03,Sefrou,Buffalo - Tenderloin,4089.162
+2019-10-13,Inezgane,Turkey Leg With Drum And Thigh,438.002
+2020-08-06,Ksar El Kebir,Ginger - Fresh,18752.396
+2021-11-25,Marrakech,Wine - Red Oakridge Merlot,15233.803
+2019-06-13,Taourirt,Chocolate - White,7984.59
+2020-02-15,Azemmour,Spaghetti Squash,11554.257
+2020-03-02,Semara,Appetizer - Mushroom Tart,5319.026
+2021-02-15,Guelmim,Veal - Loin,11665.117
+2019-12-10,Mohammedia,Mace Ground,7008.842
+2021-12-05,Guercif Oulad,Calypso - Black Cherry Lemonade,19490.195
+2021-01-29,Kouribga,Apple - Macintosh,7352.738
+2022-03-26,Errachidia,Cod - Black Whole Fillet,18127.268
+2021-09-24,Essaouira,Edible Flower - Mixed,13343.126
+2019-08-07,Sidi Slimane,Nantucket Cranberry Juice,16619.182
+2020-10-15,Guelmim,Shrimp - 100 / 200 Cold Water,7758.729
+2022-01-05,Ksar El Kebir,French Kiss Vanilla,1069.966
+2022-03-27,Temara,Pasta - Fettuccine_ Dry,8887.744
+2019-09-10,Tangier,Vermouth - Sweet_ Cinzano,11220.939
+2020-08-11,Casablanca,Doilies - 7_ Paper,13179.739
+2020-01-17,Tineghir,Beans - Black Bean_ Preserved,19862.125
+2019-06-24,Ad Dakhla,Haggis,15371.718
+2022-02-07,Mohammedia,Cloves - Whole,11692.635
+2021-02-02,Errachidia,Crackers - Graham,615.274
+2021-04-24,Boujad,Nut - Cashews_ Whole_ Raw,17197.295
+2020-09-29,Sidi Slimane,Wine - Magnotta - Red_ Baco,17068.173
+2021-09-11,Jerada,Bread - Bistro White,269.947
+2020-03-17,Errachidia,Hersey Shakes,17880.051
+2020-12-05,Tiflet,Cake - Night And Day Choclate,15343.587
+2021-04-25,Errachidia,Iced Tea Concentrate,19383.505
+2020-06-18,Temara,Tarts Assorted,1913.735
+2021-08-29,Chefchaouene,Syrup - Monin - Passion Fruit,14667.35
+2020-12-23,Marrakech,Vodka - Lemon_ Absolut,11090.371
+2021-11-25,Larache,Garlic - Peeled,2633.802
+2021-12-21,Larache,Cheese - Marble,10075.619
+2022-01-05,Sefrou,Wasabi Powder,14406.795
+2021-10-17,Rabat,Persimmons,4825.944
+2021-10-05,Ksar El Kebir,Quail - Eggs_ Fresh,773.464
+2019-11-18,Sefrou,Wooden Mop Handle,861.046
+2020-07-02,Inezgane,Flour Dark Rye,19087.805
+2022-02-17,El AÃ¯oun,Chocolate Bar - Smarties,160.122
+2020-07-16,Temara,Schnappes - Peach_ Walkers,8190.278
+2021-09-26,Inezgane,Extract - Rum,1069.237
+2020-07-18,Ad Dakhla,Wine - Gato Negro Cabernet,9080.819
+2019-06-11,Kouribga,Beets,12424.249
+2019-09-16,Jerada,Melon - Honey Dew,17765.249
+2020-04-16,Marrakech,Cinnamon Rolls,7908.481
+2021-10-28,El Kelaa des Srarhna,Wine - Magnotta - Pinot Gris Sr,17581.918
+2020-03-07,Mrirt,Sobe - Tropical Energy,8882.677
+2020-01-03,Chefchaouene,Flavouring - Orange,4168.51
+2020-10-13,Casablanca,Gooseberry,12787.866
+2019-07-18,Chefchaouene,Asparagus - White_ Canned,8571.025
+2020-05-11,Kenitra,Appetizer - Chicken Satay,2870.742
+2021-09-10,Mrirt,Pork - Liver,11081.541
+2020-09-05,Temara,Oil - Food_ Lacquer Spray,9270.899
+2019-11-16,Ben Guerir,Gatorade - Lemon Lime,19977.078
+2019-08-30,Ksar El Kebir,Plaintain,11213.119
+2021-07-17,Qasbat Tadla,Beer - Mcauslan Apricot,14207.53
+2019-10-26,Taourirt,Amaretto,19580.714
+2019-06-09,Sidi Slimane,Cranberries - Dry,19404.255
+2019-12-28,Larache,Cheese - Asiago,13614.926
+2022-01-01,Mohammedia,Wine - Kwv Chenin Blanc South,3173.321
+2020-10-20,Marrakech,Cake - French Pear Tart,8372.66
+2019-05-10,Guercif Oulad,Silicone Paper 16.5x24,16551.42
+2019-10-13,Mohammedia,Wine - Cava Aria Estate Brut,18290.383
+2020-11-07,Al Fqih Ben,Beef - Rib Roast_ Cap On,18756.39
+2020-12-10,Tangier,Dome Lid Clear P92008h,9912.103
+2020-01-07,FÃ¨s,Shrimp - Black Tiger 16/20,4395.792
+2022-01-24,Al Fqih Ben,Soup - Canadian Pea_ Dry Mix,18133.537
+2020-12-25,Qasbat Tadla,Cleaner - Comet,16372.642
+2019-06-24,Sefrou,Peas - Pigeon_ Dry,10280.108
+2021-06-05,Guelmim,Juice - Prune,9309.717
+2021-01-31,Larache,Salt - Rock_ Course,17740.981
+2020-09-11,Agadir,Pie Filling - Apple,6358.146
+2022-01-10,Ksar El Kebir,Strawberries,13290.837
+2020-02-10,Agadir,Lettuce - Treviso,4888.587
+2021-11-05,Qasbat Tadla,Cookies Almond Hazelnut,18068.507
+2021-08-12,Semara,Apple - Macintosh,12978.411
+2021-09-01,El Kelaa des Srarhna,Gatorade - Cool Blue Raspberry,17879.68
+2019-10-25,Oued Zem,Shrimp_ Dried_ Small / Lb,16515.28
+2019-11-30,Inezgane,Veal - Ground,11568.629
+2020-03-12,Semara,Calvados - Boulard,14269.77
+2020-04-02,El AÃ¯oun,Beer - Camerons Auburn,210.167
+2019-07-12,Tangier,Chick Peas - Dried,7374.86
+2019-05-30,Marrakech,Olive - Spread Tapenade,16929.032
+2020-11-25,Agadir,Chocolate - Chips Compound,8207.892
+2021-05-22,Boujad,Jam - Apricot,2333.343
+2021-01-24,Rabat,Venison - Racks Frenched,4323.163
+2019-05-08,Chefchaouene,Veal - Nuckle,2900.953
+2021-09-03,Guercif Oulad,Scallop - St. Jaques,16258.349
+2020-12-19,Mrirt,Pastry - Plain Baked Croissant,2191.39
+2022-01-22,Kenitra,Shiro Miso,19446.759
+2021-10-25,Chefchaouene,Grapefruit - Pink,15930.278
+2021-08-05,Agadir,Truffle - Whole Black Peeled,3577.003
+2021-06-16,Kouribga,Nantuket Peach Orange,2278.481
+2021-10-30,Tangier,Bagel - Ched Chs Presliced,17746.193
+2021-07-22,Larache,Lid - 3oz Med Rec,2492.74
+2019-05-25,Azemmour,Container - Clear 32 Oz,18293.992
+2021-05-14,Jerada,Puree - Blackcurrant,99.422
+2019-09-04,Agadir,Ham - Virginia,3834.913
+2019-11-27,Semara,Pastry - Apple Large,6536.149
+2022-02-24,El Kelaa des Srarhna,Tabasco Sauce_ 2 Oz,19098.444
+2020-10-13,Rabat,Capon - Whole,17184.116
+2019-08-07,Oued Zem,Muffin Mix - Banana Nut,313.447
+2019-08-12,Tineghir,Bread - Triangle White,7976.808
+2021-05-03,Sefrou,Bread - Roll_ Calabrese,669.769
+2020-10-02,Rabat,Beef - Salted,7152.447
+2021-04-11,Ad Dakhla,Yogurt - Plain,6122.086
+2019-12-28,Tineghir,Tomatoes - Hot House,12091.705
+2021-01-27,El Kelaa des Srarhna,Soup - Knorr_ Veg / Beef,2229.378
+2021-12-17,FÃ¨s,Okra,14627.039
+2020-01-13,Sidi Slimane,Fish - Soup Base_ Bouillon,18141.594
+2021-03-15,Ben Guerir,Food Colouring - Pink,1068.783
+2021-03-16,Sale,Everfresh Products,15316.264
+2019-07-07,Sidi Slimane,Pastry - Choclate Baked,7485.48
+2019-06-27,Ad Dakhla,Veal - Round_ Eye Of,12984.274
+2021-08-16,El Kelaa des Srarhna,Alize Sunset,4692.712
+2020-02-06,Taroudannt,Caviar - Salmon,12546.565
+2021-02-21,Taourirt,Cheese - Havarti_ Salsa,10594.539
+2019-07-22,Azemmour,Pasta - Tortellini_ Fresh,7666.719
+2020-05-17,Sidi Slimane,Tia Maria,6925.531
+2022-04-12,El AÃ¯oun,Iced Tea - Lemon_ 460 Ml,9871.603
+2020-08-07,Tiflet,Wine - Red_ Colio Cabernet,8441.742
+2020-04-17,El AÃ¯oun,Lettuce - Boston Bib - Organic,17624.413
+2020-12-24,Ad Dakhla,Oil - Cooking Spray,7573.653
+2019-07-23,Kenitra,Fish - Soup Base_ Bouillon,12513.218
+2021-11-29,Temara,Campari,15161.084
+2019-08-24,Boujad,Steamers White,16958.694
+2020-03-09,Marrakech,Wine - Chablis J Moreau Et Fils,2239.016
+2019-05-11,Guelmim,Wine - Ruffino Chianti Classico,2567.305
+2020-12-07,Qasbat Tadla,Oil - Safflower,2777.417
+2021-04-23,Tineghir,Cheese - Blue,11064.79
+2021-02-27,Errachidia,Contreau,9313.914
+2019-12-07,Tangier,Salmon - Whole_ 4 - 6 Pounds,14404.343
+2020-09-26,Marrakech,Mushroom - Chantrelle_ Fresh,5624.709
+2019-08-26,Marrakech,Bread - Pita,2297.62
+2020-07-12,Ksar El Kebir,Vermouth - White_ Cinzano,16324.046
+2019-07-15,Inezgane,Jello - Assorted,14111.551
+2020-11-21,Tangier,Mortadella,14521.059
+2022-01-27,Qasbat Tadla,Cranberry Foccacia,3216.165
+2020-11-01,Oued Zem,Lamb Leg - Bone - In Nz,9374.259
+2022-04-08,Errachidia,Paper Cocktail Umberlla 80 - 180,190.019
+2019-06-16,Tiflet,Butter Balls Salted,8251.147
+2020-02-28,Ben Guerir,Cheese - Cream Cheese,11867.109
+2020-03-17,Mrirt,Sage Derby,17168.351
