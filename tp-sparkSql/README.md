@@ -1,21 +1,25 @@
-﻿### TP 6 SparkSQL 
+﻿### TP 6 SparkSQL
+
 [REF Apache](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
-*Assignment*
+_Assignment_
+
 ```diff
-! Using Dataframes (Datasets without typing) then, with Datasest 
-Employee: 
-+ id long 
-+ name String  
-+ phone String  
-+ salary double  
-+ age int 
-+ departement String 
-Questions: 
-- Afficher les employés ayant une age entre 30 et 35  - Afficher la moyenne des salaires de chaque département 
-- Afficher le nombre des salariés par departement 
+! Using Dataframes (Datasets without typing) then, with Datasest
+Employee:
++ id long
++ name String
++ phone String
++ salary double
++ age int
++ departement String
+Questions:
+- Afficher les employés ayant une age entre 30 et 35  - Afficher la moyenne des salaires de chaque département
+- Afficher le nombre des salariés par departement
 - Afficher le salaire maximum de tous les départements
 ```
+
 **Dependencies**
+
 ```xml
 <dependencies>
 	<dependency>
@@ -30,8 +34,6 @@ Questions:
 	</dependency>
   </dependencies>
 ```
-
-
 
 #### Using Dataframes (with data as Json)
 
@@ -61,6 +63,7 @@ Questions:
 ```
 
 #### Using Dataframes (with data as CSV)
+
 ```java
 
 		//setup session
@@ -96,16 +99,19 @@ Questions:
 
 
 ```
+
 #### Using Dataframes (with data as XML)
 
 #### Using Datasets
+
 1. Employee Model
+
 ```java
 import java.io.Serializable;
 
 public class Employee implements Serializable {
 	/**
-	 * 
+	 *
 	 */
 	//private static final long serialVersionUID = 1L;
 	private Long id; // Long class is nullable
@@ -173,7 +179,8 @@ public class Employee implements Serializable {
 
 ```
 
-2.code 
+2.code
+
 ```java
 
 		//setup session
@@ -208,11 +215,25 @@ public class Employee implements Serializable {
 		// Register the DataFrame as a SQL temporary view
 		employeesData.createOrReplaceTempView("employees");
 		sparkSession.sql("select max(salary)as max_salary from employees").show();
-		
+
 ```
 
 #### Output
+
+![1](../res_assets/sparkSql/1.JPG)
+
 1. show employees of 30<=age<=35
+
+![1](../res_assets/sparkSql/2.JPG)
+
 2. Show the average salary of each department
+
+![1](../res_assets/sparkSql/3.JPG)
+
 3.  Show the number of employees in each department
-4. Show the highest salary in all departments 
+
+![1](../res_assets/sparkSql/4.JPG)
+
+4. Show the highest salary in all departments
+
+![1](../res_assets/sparkSql/5.JPG)
